@@ -17,6 +17,7 @@ class CreateCommentsTable extends Migration
             $table->id('id');
             $table->unsignedBigInteger('issue_id');
             $table->string('content');
+            $table->unsignedBigInteger('author_id');
             $table->timestamps();
         });
     }
