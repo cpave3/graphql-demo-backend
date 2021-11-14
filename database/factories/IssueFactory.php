@@ -1,4 +1,5 @@
 <?php
+// database/factories/IssueFactory.php
 
 namespace Database\Factories;
 

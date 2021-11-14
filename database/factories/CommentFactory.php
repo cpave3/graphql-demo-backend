@@ -1,4 +1,5 @@
 <?php
+// database/factories/CommentFactory.php
 
 namespace Database\Factories;
 

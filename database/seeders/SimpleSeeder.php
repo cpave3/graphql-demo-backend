@@ -1,11 +1,11 @@
 <?php
+// database/seeders/SimpleSeeder.php
 
 namespace Database\Seeders;
 
 use App\Models\Comment;
 use App\Models\Issue;
 use App\Models\User;
-use Database\Factories\UserFactory;
 use Illuminate\Database\Seeder;
 
 class SimpleSeeder extends Seeder
